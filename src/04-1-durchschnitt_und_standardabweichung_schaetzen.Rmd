@@ -478,7 +478,7 @@ d) Falsch
 Im Datensatz `r inline_code(exr_koerpergroesse_sex$file_name)` wurden Körpergrössen von Versuchsteilnehmenden erfasst. Welche der folgenden Aussagen sind wahr, welche falsch?
 
 a) Die durchschnittliche Körpergrösse der Frauen liegt bei $M = 166.0$ cm $90\%$ KI $[164.7, 167.3]$.
-b) Die durchschnittliche Körpergrösse der Männer liegt bei $M = 180.3$ cm $95\%$ KI $[178.6, 181.0]$.
+b) Die durchschnittliche Körpergrösse der Männer liegt bei $M = 180.3$ cm $95\%$ KI $[178.6, 182.0]$.
 c) Es wurden $N= 163$ Frauen beobachtet.
 d) Die durchschnittliche Körpergrösse der Männer und Frauen liegt bei $M = 173.1$ cm $99\%$ KI $[171.4, 174.9]$.
 :::
