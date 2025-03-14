@@ -69,7 +69,7 @@ plot_ball_bag(
 )
 ```
 
-Es könnte aber auch sein, dass die Stichprobe einer Population mit viel höherer Zusatandsangst, wie in Abbildung \@ref(fig:srs-intervall-low-p) dargestellt, entstammt. Dies wird zwar weniger häufig vorkommen als der Fall oben, aber ist trotzdem möglich.
+Es könnte aber auch sein, dass die Stichprobe einer Population mit viel höherer Zustandsangst, wie in Abbildung \@ref(fig:srs-intervall-low-p) dargestellt, entstammt. Dies wird zwar weniger häufig vorkommen als der Fall oben, aber ist trotzdem möglich.
 
 ```{r srs-intervall-low-p, fig.cap="Population mit höheren Angst-Werten als in der Stichprobe.", echo = FALSE}
 scores_bag_low_p <-  c(20, 80, rnorm(198, 52, exm_angst$x_sd))
